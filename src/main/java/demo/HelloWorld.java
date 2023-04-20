@@ -51,6 +51,7 @@ public class HelloWorld {
         // f=f*10;error
         f = (byte) (f * 10);//yavne privedeniya tupiv
         int $const_goto = 2;
+        
         //Домашє завдання
         double a = 9;
         double b = -30;
